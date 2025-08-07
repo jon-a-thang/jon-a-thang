@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Jonathan
 
----
-
 ## 🚀 About Me
 
 Hey! I'm a **Software Engineer** with **5 years of experience** on an exciting journey through the tech world! 🌟
